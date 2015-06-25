@@ -1,11 +1,11 @@
 {
   "name": "reviver",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Generic helpers for reviving javascript objects to and from constructors when doing JSON serialization and deserialization",
   "main": "lib/main.js",
   "scripts": {
     "pretest": "jshint ./lib/*.js ./test/*.js",
-    "test": "mocha ./test/*.js --reporter spec"
+    "test": "node ./test/main.js"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,7 @@
   "author": "Trygve Lie",
   "license": "MIT",
   "devDependencies": {
-    "chai": "latest",
-    "should": "latest",
-    "jshint": "latest",
-    "mocha": "latest"
+    "tap": "latest",
+    "jshint": "latest"
   }
 }
