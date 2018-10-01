@@ -1,6 +1,6 @@
 # reviver
 
-[![Dependencies](https://img.shields.io/david/trygve-lie/reviver.svg?style=flat-square)](https://david-dm.org/trygve-lie/reviver)[![Build Status](http://img.shields.io/travis/trygve-lie/reviver/master.svg?style=flat-square)](https://travis-ci.org/trygve-lie/reviver)
+[![Dependencies](https://img.shields.io/david/trygve-lie/reviver.svg?style=flat-square)](https://david-dm.org/trygve-lie/reviver)[![Build Status](http://img.shields.io/travis/trygve-lie/reviver/master.svg?style=flat-square)](https://travis-ci.org/trygve-lie/reviver) [![Greenkeeper badge](https://badges.greenkeeper.io/trygve-lie/reviver.svg)](https://greenkeeper.io/)
 
 
 Generic helpers for reviving javascript Objects to and from constructors when doing JSON serialization and deserialization.
